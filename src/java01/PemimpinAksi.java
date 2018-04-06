@@ -5,6 +5,7 @@ public class PemimpinAksi {
         Pemimpin dunia = new Pemimpin();
         
         dunia.Pbb = "Antonio Guterres";
+        dunia.Asean="Le Luong Minh";
         dunia.Presiden="Joko Widodo";
         dunia.Gubernur="Sahbirin Noor";
         dunia.Walikota="Nadjmi Adhani";
