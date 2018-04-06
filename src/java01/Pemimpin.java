@@ -11,6 +11,7 @@ package java01;
  */
 public class Pemimpin {
     String Pbb;
+    String Asean;
     String Presiden;
     String Gubernur;
     String Walikota;
@@ -22,6 +23,7 @@ public class Pemimpin {
     
     void cetakpemimpin(){
         System.out.println("Sekjen PBB            = "+Pbb);
+        System.out.println("Sekjen Asean          = "+Asean);
         System.out.println("Presiden RI           = "+Presiden);
         System.out.println("Gubernur Kalsel       = "+Gubernur);
         System.out.println("Walokota Banjarbaru   = "+Walikota);

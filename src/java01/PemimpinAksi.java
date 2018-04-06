@@ -4,7 +4,7 @@ public class PemimpinAksi {
     public static void main(String[] args) {
         Pemimpin dunia = new Pemimpin();
         
-        dunia.Pbb = "Ban Ki Moon";
+        dunia.Pbb = "Antonio Guterres";
         dunia.Presiden="Joko Widodo";
         dunia.Gubernur="Sahbirin Noor";
         dunia.Walikota="Nadjmi Adhani";
@@ -13,6 +13,8 @@ public class PemimpinAksi {
         dunia.RT="Suparno";
         dunia.RW="Mardiansyah";
         dunia.KK="Taufiq Fuad";
+        
+        dunia.cetakpemimpin();
     }
    
 }
