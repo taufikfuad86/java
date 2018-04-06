@@ -10,6 +10,7 @@ package Pemimpin;
  * @author WAHYU'S PC
  */
 public class Pemimpin {
+    String Pbb;
     String Presiden;
     String Gubernur;
     String Walikota;
