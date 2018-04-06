@@ -21,15 +21,15 @@ public class Pemimpin {
     String KK;
     
     void cetakpemimpin(){
-        System.out.println("Sekjen PBB  = "+Pbb);
-        System.out.println("Sekjen PBB  = "+Presiden);
-        System.out.println("Sekjen PBB  = "+Gubernur);
-        System.out.println("Sekjen PBB  = "+Walikota);
-        System.out.println("Sekjen PBB  = "+Camat);
-        System.out.println("Sekjen PBB  = "+Lurah);
-        System.out.println("Sekjen PBB  = "+RW);
-        System.out.println("Sekjen PBB  = "+RT);
-        System.out.println("Sekjen PBB  = "+KK);
+        System.out.println("Sekjen PBB            = "+Pbb);
+        System.out.println("Presiden RI           = "+Presiden);
+        System.out.println("Gubernur Kalsel       = "+Gubernur);
+        System.out.println("Walokota Banjarbaru   = "+Walikota);
+        System.out.println("Camat Landasan Ulin   = "+Camat);
+        System.out.println("Lurah Loktabat Utara  = "+Lurah);
+        System.out.println("Nama Pak RW           = "+RW);
+        System.out.println("Nama Pak RT           = "+RT);
+        System.out.println("Kepala Keluarga       = "+KK);
     }
     
 }
