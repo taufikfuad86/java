@@ -16,13 +16,20 @@ public class Pemimpin {
     String Walikota;
     String Camat;
     String Lurah;
-    String Kades;
     String RW;
     String RT;
     String KK;
     
     void cetakpemimpin(){
-    
+        System.out.println("Sekjen PBB  = "+Pbb);
+        System.out.println("Sekjen PBB  = "+Presiden);
+        System.out.println("Sekjen PBB  = "+Gubernur);
+        System.out.println("Sekjen PBB  = "+Walikota);
+        System.out.println("Sekjen PBB  = "+Camat);
+        System.out.println("Sekjen PBB  = "+Lurah);
+        System.out.println("Sekjen PBB  = "+RW);
+        System.out.println("Sekjen PBB  = "+RT);
+        System.out.println("Sekjen PBB  = "+KK);
     }
     
 }
