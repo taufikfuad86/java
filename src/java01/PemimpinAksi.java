@@ -9,20 +9,9 @@ package java01;
  *
  * @author WAHYU'S PC
  */
-public class Pemimpin {
-    String Pbb;
-    String Presiden;
-    String Gubernur;
-    String Walikota;
-    String Camat;
-    String Lurah;
-    String Kades;
-    String RW;
-    String RT;
-    String KK;
-    
-    void cetakpemimpin(){
-    
+public class PemimpinAksi {
+    public static void main(String[] args) {
+        
     }
-    
+   
 }
